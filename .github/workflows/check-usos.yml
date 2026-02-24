@@ -5,6 +5,10 @@ on:
     - cron: '*/15 * * * *'
   workflow_dispatch:
 
+permissions:
+  contents: read
+  actions: write
+
 jobs:
   check:
     runs-on: ubuntu-latest
@@ -18,15 +22,12 @@ jobs:
       - name: Install dependencies
         run: pip install requests beautifulsoup4
 
-      - name: Download previous state
-        uses: dawidd6/action-download-artifact@v6
+      - name: Restore previous state
+        uses: actions/cache/restore@v4
         with:
-          name: usos-state
-          path: .
-          if_no_artifact_found: warn
-          search_artifacts: true
-          workflow_conclusion: ''
-        continue-on-error: true
+          path: previous_state.json
+          key: usos-state-never-matches
+          restore-keys: usos-state-
 
       - name: Run availability check
         env:
@@ -36,10 +37,8 @@ jobs:
           DISCORD_USER_ID: ${{ secrets.DISCORD_USER_ID }}
         run: python check_availability.py
 
-      - name: Upload state
-        uses: actions/upload-artifact@v4
+      - name: Save state
+        uses: actions/cache/save@v4
         with:
-          name: usos-state
           path: previous_state.json
-          retention-days: 1
-          overwrite: true
+          key: usos-state-${{ github.run_id }}
