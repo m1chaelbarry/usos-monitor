@@ -1,30 +1,75 @@
-# USOS Monitor
+# USOS Monitor — Monitor wolnych miejsc w lektoratach
 
-Monitors available spots in USOS language courses ("Języki od podstaw M1") and sends Discord DM notifications when spots open up.
+Automatycznie sprawdza dostępność miejsc w lektoratach **Języki od podstaw (M1)** na USOS PW i wysyła powiadomienia na Discord, gdy pojawią się wolne miejsca bez kolizji z Twoim planem.
 
-## Setup
+## Jak uruchomić (fork & go)
 
-### GitHub Secrets
-Add these secrets in your repo → Settings → Secrets and variables → Actions:
+### 1. Zrób fork tego repo
 
-| Secret              | Description            |
-| ------------------- | ---------------------- |
-| `USOS_USERNAME`     | USOS login (nr albumu) |
-| `USOS_PASSWORD`     | USOS password          |
-| `DISCORD_BOT_TOKEN` | Discord bot token      |
-| `DISCORD_USER_ID`   | Your Discord user ID   |
+Kliknij **Fork** w prawym górnym rogu na GitHub.
 
-### How to get Discord User ID
-1. Open Discord → User Settings → Advanced → Enable **Developer Mode**
-2. Right-click your username → **Copy User ID**
+### 2. Wrzuć swój plan zajęć
 
-### Schedule
-- Runs automatically every 15 minutes via GitHub Actions
-- Can be triggered manually from Actions tab → "Check USOS Availability" → Run workflow
+1. Wejdź na [USOS PW](https://usosweb.usos.pw.edu.pl) → **Mój plan** → **Eksportuj do kalendarza** → pobierz plik `.ics`
+2. Zmień nazwę pliku na **`plan.ics`** i wrzuć do głównego folderu repo (zastąp istniejący)
 
-## How it works
-1. Logs into USOS via CAS authentication
-2. Scrapes all groups from "Języki od podstaw (M1)" registration
-3. Filters out groups that conflict with your schedule (`plan.csv`)
-4. Compares with previous state to detect changes
-5. Sends Discord DM if new spots appear or groups fill up
+### 3. Dodaj GitHub Secrets
+
+W swoim forku: **Settings → Secrets and variables → Actions → New repository secret**
+
+| Secret              | Wartość                                                                                                          |
+| ------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| `USOS_USERNAME`     | Twój nr albumu (np. `338413`)                                                                                    |
+| `USOS_PASSWORD`     | Hasło do USOS                                                                                                    |
+| `DISCORD_BOT_TOKEN` | [discord.com/developers](https://discord.com/developers/applications) → Twój bot → Bot → **Reset Token**         |
+| `DISCORD_USER_ID`   | Discord → Ustawienia → Zaawansowane → włącz **Tryb programisty** → PPM na swoim nicku → **Kopiuj identyfikator** |
+
+> [!NOTE]
+> Bot musi być na wspólnym serwerze z Tobą, żeby móc wysyłać DM.
+
+### 4. Gotowe!
+
+Workflow odpala się **co 15 minut** automatycznie. Możesz też uruchomić ręcznie:  
+**Actions → Check USOS Availability → Run workflow**
+
+---
+
+## Jak to działa
+
+1. Parsuje `plan.ics` → wykrywa regularne zajęcia (≥3 wystąpień w semestrze, jednorazowe pomija)
+2. Loguje się do USOS przez CAS PW
+3. Pobiera wszystkie grupy z rejestracji "Języki od podstaw (M1)"
+4. Filtruje grupy kolidujące z Twoim planem
+5. Porównuje z poprzednim stanem → wykrywa zmiany
+6. Wysyła DM na Discordzie:
+   - 🟢 Nowe wolne miejsca
+   - 🔄 Zmiana liczby wolnych miejsc
+   - 🔴 Grupa się zapełniła
+
+Brak zmian = brak powiadomień.
+
+---
+
+## Uruchomienie lokalne (opcjonalne)
+
+```bash
+pip install requests beautifulsoup4
+```
+
+```powershell
+# Windows PowerShell
+$env:USOS_USERNAME="123456"
+$env:USOS_PASSWORD="haslo"
+$env:DISCORD_BOT_TOKEN="token"
+$env:DISCORD_USER_ID="twoje_id"
+python check_availability.py
+```
+
+```bash
+# Linux / macOS
+export USOS_USERNAME=123456
+export USOS_PASSWORD=haslo
+export DISCORD_BOT_TOKEN=token
+export DISCORD_USER_ID=twoje_id
+python check_availability.py
+```

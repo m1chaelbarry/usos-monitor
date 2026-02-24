@@ -1,0 +1,2791 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MUCI//NONSGML USOS API 7.2.0.0-8\, ef955082 (2026-02-24)//EN
+X-ORIGINAL-URL:https://usosweb.usos.pw.edu.pl/kontroler.php?_action=home/p
+ lan&
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Michał Baryczka - plan zajęć USOS
+X-WR-TIMEZONE:Europe/Warsaw
+BEGIN:VEVENT
+SUMMARY:LAB - Programowanie robotów przemysłowych
+DTSTART;VALUE=DATE-TIME:20260224T082000
+DTEND;VALUE=DATE-TIME:20260224T100000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8272053@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST013\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=526942\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWI - Język angielski: Konwersacje i debaty po angielsku poziom C
+ 2 - lektorat tematyczny
+DTSTART;VALUE=DATE-TIME:20260224T101500
+DTEND;VALUE=DATE-TIME:20260224T114500
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8432844@apps.usos.pw.edu.pl
+DESCRIPTION:\nhttps://usosweb.usos.pw.edu.pl/kontroler.php?_action=katalog
+ 2/przedmioty/pokazZajecia&gr_nr=3&zaj_cyk_id=529781\n
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAB - Napędy i sterowanie płynowe
+DTSTART;VALUE=DATE-TIME:20260224T121500
+DTEND;VALUE=DATE-TIME:20260224T140000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8256373@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST26\nGmach Stary Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=11
+ &zaj_cyk_id=527141\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAB - Napędy i sterowanie płynowe
+DTSTART;VALUE=DATE-TIME:20260224T141500
+DTEND;VALUE=DATE-TIME:20260224T160000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8256382@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST26\nGmach Stary Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=11
+ &zaj_cyk_id=527141\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PRO - Podstawy konstrukcji maszyn technologicznych
+DTSTART;VALUE=DATE-TIME:20260225T082000
+DTEND;VALUE=DATE-TIME:20260225T100000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261799@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT313\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=11
+ &zaj_cyk_id=527149\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWI - Język angielski w automatyce - poziom B2+ - lektorat tematy
+ czny
+DTSTART;VALUE=DATE-TIME:20260225T101500
+DTEND;VALUE=DATE-TIME:20260225T114500
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8428104@apps.usos.pw.edu.pl
+DESCRIPTION:\nhttps://usosweb.usos.pw.edu.pl/kontroler.php?_action=katalog
+ 2/przedmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=529760\n
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Podstawy konstrukcji maszyn technologicznych
+DTSTART;VALUE=DATE-TIME:20260225T121500
+DTEND;VALUE=DATE-TIME:20260225T140000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261871@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT341\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527148\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Napędy i sterowanie płynowe
+DTSTART;VALUE=DATE-TIME:20260226T121500
+DTEND;VALUE=DATE-TIME:20260226T140000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8256454@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT341\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527140\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAB - Podstawy robotyki
+DTSTART;VALUE=DATE-TIME:20260226T141500
+DTEND;VALUE=DATE-TIME:20260226T160000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261534@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST403\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=527151\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Spawalnictwo 1
+DTSTART;VALUE=DATE-TIME:20260227T082000
+DTEND;VALUE=DATE-TIME:20260227T100000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8272031@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT144\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527153\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Rachunek prawdopodobieństwa i statystyka
+DTSTART;VALUE=DATE-TIME:20260227T101500
+DTEND;VALUE=DATE-TIME:20260227T120000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8256357@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT144\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527135\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Napędy elektryczne maszyn i robotów
+DTSTART;VALUE=DATE-TIME:20260302T101500
+DTEND;VALUE=DATE-TIME:20260302T120000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261783@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST310\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=527142\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Podstawy robotyki
+DTSTART;VALUE=DATE-TIME:20260302T121500
+DTEND;VALUE=DATE-TIME:20260302T140000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261621@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST310\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=527150\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Obróbka skrawaniem 1
+DTSTART;VALUE=DATE-TIME:20260302T141500
+DTEND;VALUE=DATE-TIME:20260302T160000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8272005@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST310\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=527147\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAB - Programowanie robotów przemysłowych
+DTSTART;VALUE=DATE-TIME:20260303T082000
+DTEND;VALUE=DATE-TIME:20260303T100000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8272054@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST013\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=526942\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWI - Język angielski: Konwersacje i debaty po angielsku poziom C
+ 2 - lektorat tematyczny
+DTSTART;VALUE=DATE-TIME:20260303T101500
+DTEND;VALUE=DATE-TIME:20260303T114500
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8432858@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: 146\nBudynek Wydziału Mechatroniki\n\nhttps://usosweb.u
+ sos.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
+ =3&zaj_cyk_id=529781\n
+LOCATION:Świętego Andrzeja Boboli 8\, 02-525 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAB - Napędy i sterowanie płynowe
+DTSTART;VALUE=DATE-TIME:20260303T121500
+DTEND;VALUE=DATE-TIME:20260303T140000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8256366@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST26\nGmach Stary Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=11
+ &zaj_cyk_id=527141\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAB - Napędy i sterowanie płynowe
+DTSTART;VALUE=DATE-TIME:20260303T141500
+DTEND;VALUE=DATE-TIME:20260303T160000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8256375@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST26\nGmach Stary Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=11
+ &zaj_cyk_id=527141\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PRO - Podstawy konstrukcji maszyn technologicznych
+DTSTART;VALUE=DATE-TIME:20260304T082000
+DTEND;VALUE=DATE-TIME:20260304T100000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261798@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT313\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=11
+ &zaj_cyk_id=527149\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWI - Język angielski w automatyce - poziom B2+ - lektorat tematy
+ czny
+DTSTART;VALUE=DATE-TIME:20260304T101500
+DTEND;VALUE=DATE-TIME:20260304T114500
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8428105@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: 146\nBudynek Wydziału Mechatroniki\n\nhttps://usosweb.u
+ sos.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
+ =1&zaj_cyk_id=529760\n
+LOCATION:Świętego Andrzeja Boboli 8\, 02-525 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Podstawy konstrukcji maszyn technologicznych
+DTSTART;VALUE=DATE-TIME:20260304T121500
+DTEND;VALUE=DATE-TIME:20260304T140000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261870@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT341\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527148\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Napędy i sterowanie płynowe
+DTSTART;VALUE=DATE-TIME:20260305T121500
+DTEND;VALUE=DATE-TIME:20260305T140000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8256453@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT341\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527140\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAB - Podstawy robotyki
+DTSTART;VALUE=DATE-TIME:20260305T141500
+DTEND;VALUE=DATE-TIME:20260305T160000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261533@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST403\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=527151\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Spawalnictwo 1
+DTSTART;VALUE=DATE-TIME:20260306T082000
+DTEND;VALUE=DATE-TIME:20260306T100000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8272030@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT144\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527153\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Rachunek prawdopodobieństwa i statystyka
+DTSTART;VALUE=DATE-TIME:20260306T101500
+DTEND;VALUE=DATE-TIME:20260306T120000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8256356@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT144\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527135\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Napędy elektryczne maszyn i robotów
+DTSTART;VALUE=DATE-TIME:20260309T101500
+DTEND;VALUE=DATE-TIME:20260309T120000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261782@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST310\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=527142\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Podstawy robotyki
+DTSTART;VALUE=DATE-TIME:20260309T121500
+DTEND;VALUE=DATE-TIME:20260309T140000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261620@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST310\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=527150\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Obróbka skrawaniem 1
+DTSTART;VALUE=DATE-TIME:20260309T141500
+DTEND;VALUE=DATE-TIME:20260309T160000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8272004@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST310\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=527147\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAB - Programowanie robotów przemysłowych
+DTSTART;VALUE=DATE-TIME:20260310T082000
+DTEND;VALUE=DATE-TIME:20260310T100000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8272052@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST013\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=526942\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWI - Język angielski: Konwersacje i debaty po angielsku poziom C
+ 2 - lektorat tematyczny
+DTSTART;VALUE=DATE-TIME:20260310T101500
+DTEND;VALUE=DATE-TIME:20260310T114500
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8432845@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: 146\nBudynek Wydziału Mechatroniki\n\nhttps://usosweb.u
+ sos.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
+ =3&zaj_cyk_id=529781\n
+LOCATION:Świętego Andrzeja Boboli 8\, 02-525 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAB - Napędy i sterowanie płynowe
+DTSTART;VALUE=DATE-TIME:20260310T121500
+DTEND;VALUE=DATE-TIME:20260310T140000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8256372@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST26\nGmach Stary Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=11
+ &zaj_cyk_id=527141\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAB - Napędy i sterowanie płynowe
+DTSTART;VALUE=DATE-TIME:20260310T141500
+DTEND;VALUE=DATE-TIME:20260310T160000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8256381@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST26\nGmach Stary Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=11
+ &zaj_cyk_id=527141\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PRO - Podstawy konstrukcji maszyn technologicznych
+DTSTART;VALUE=DATE-TIME:20260311T082000
+DTEND;VALUE=DATE-TIME:20260311T100000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261797@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT313\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=11
+ &zaj_cyk_id=527149\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWI - Język angielski w automatyce - poziom B2+ - lektorat tematy
+ czny
+DTSTART;VALUE=DATE-TIME:20260311T101500
+DTEND;VALUE=DATE-TIME:20260311T114500
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8428106@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: 146\nBudynek Wydziału Mechatroniki\n\nhttps://usosweb.u
+ sos.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
+ =1&zaj_cyk_id=529760\n
+LOCATION:Świętego Andrzeja Boboli 8\, 02-525 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Podstawy konstrukcji maszyn technologicznych
+DTSTART;VALUE=DATE-TIME:20260311T121500
+DTEND;VALUE=DATE-TIME:20260311T140000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261869@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT341\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527148\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Napędy i sterowanie płynowe
+DTSTART;VALUE=DATE-TIME:20260312T121500
+DTEND;VALUE=DATE-TIME:20260312T140000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8256452@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT341\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527140\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAB - Podstawy robotyki
+DTSTART;VALUE=DATE-TIME:20260312T141500
+DTEND;VALUE=DATE-TIME:20260312T160000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8392319@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST403\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=527151\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Spawalnictwo 1
+DTSTART;VALUE=DATE-TIME:20260313T082000
+DTEND;VALUE=DATE-TIME:20260313T100000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8272029@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT144\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527153\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Rachunek prawdopodobieństwa i statystyka
+DTSTART;VALUE=DATE-TIME:20260313T101500
+DTEND;VALUE=DATE-TIME:20260313T120000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8256355@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT144\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527135\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Napędy elektryczne maszyn i robotów
+DTSTART;VALUE=DATE-TIME:20260316T101500
+DTEND;VALUE=DATE-TIME:20260316T120000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261781@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST310\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=527142\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Podstawy robotyki
+DTSTART;VALUE=DATE-TIME:20260316T121500
+DTEND;VALUE=DATE-TIME:20260316T140000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261619@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST310\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=527150\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Obróbka skrawaniem 1
+DTSTART;VALUE=DATE-TIME:20260316T141500
+DTEND;VALUE=DATE-TIME:20260316T160000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8272003@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST310\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=527147\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAB - Programowanie robotów przemysłowych
+DTSTART;VALUE=DATE-TIME:20260317T082000
+DTEND;VALUE=DATE-TIME:20260317T100000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8272051@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST013\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=526942\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWI - Język angielski: Konwersacje i debaty po angielsku poziom C
+ 2 - lektorat tematyczny
+DTSTART;VALUE=DATE-TIME:20260317T101500
+DTEND;VALUE=DATE-TIME:20260317T114500
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8432846@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: 146\nBudynek Wydziału Mechatroniki\n\nhttps://usosweb.u
+ sos.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
+ =3&zaj_cyk_id=529781\n
+LOCATION:Świętego Andrzeja Boboli 8\, 02-525 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAB - Napędy i sterowanie płynowe
+DTSTART;VALUE=DATE-TIME:20260317T121500
+DTEND;VALUE=DATE-TIME:20260317T140000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8256371@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST26\nGmach Stary Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=11
+ &zaj_cyk_id=527141\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAB - Napędy i sterowanie płynowe
+DTSTART;VALUE=DATE-TIME:20260317T141500
+DTEND;VALUE=DATE-TIME:20260317T160000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8256380@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST26\nGmach Stary Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=11
+ &zaj_cyk_id=527141\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PRO - Podstawy konstrukcji maszyn technologicznych
+DTSTART;VALUE=DATE-TIME:20260318T082000
+DTEND;VALUE=DATE-TIME:20260318T100000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261796@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT313\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=11
+ &zaj_cyk_id=527149\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWI - Język angielski w automatyce - poziom B2+ - lektorat tematy
+ czny
+DTSTART;VALUE=DATE-TIME:20260318T101500
+DTEND;VALUE=DATE-TIME:20260318T114500
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8428107@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: 146\nBudynek Wydziału Mechatroniki\n\nhttps://usosweb.u
+ sos.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
+ =1&zaj_cyk_id=529760\n
+LOCATION:Świętego Andrzeja Boboli 8\, 02-525 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Podstawy konstrukcji maszyn technologicznych
+DTSTART;VALUE=DATE-TIME:20260318T121500
+DTEND;VALUE=DATE-TIME:20260318T140000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261868@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT341\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527148\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Napędy i sterowanie płynowe
+DTSTART;VALUE=DATE-TIME:20260319T121500
+DTEND;VALUE=DATE-TIME:20260319T140000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8256451@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT341\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527140\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAB - Podstawy robotyki
+DTSTART;VALUE=DATE-TIME:20260319T141500
+DTEND;VALUE=DATE-TIME:20260319T160000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261531@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST403\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=527151\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Spawalnictwo 1
+DTSTART;VALUE=DATE-TIME:20260320T082000
+DTEND;VALUE=DATE-TIME:20260320T100000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8272028@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT144\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527153\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Rachunek prawdopodobieństwa i statystyka
+DTSTART;VALUE=DATE-TIME:20260320T101500
+DTEND;VALUE=DATE-TIME:20260320T120000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8256354@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT144\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527135\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Napędy elektryczne maszyn i robotów
+DTSTART;VALUE=DATE-TIME:20260323T101500
+DTEND;VALUE=DATE-TIME:20260323T120000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261780@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST310\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=527142\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Podstawy robotyki
+DTSTART;VALUE=DATE-TIME:20260323T121500
+DTEND;VALUE=DATE-TIME:20260323T140000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261618@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST310\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=527150\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Obróbka skrawaniem 1
+DTSTART;VALUE=DATE-TIME:20260323T141500
+DTEND;VALUE=DATE-TIME:20260323T160000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8272002@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST310\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=527147\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAB - Programowanie robotów przemysłowych
+DTSTART;VALUE=DATE-TIME:20260324T082000
+DTEND;VALUE=DATE-TIME:20260324T100000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8272050@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST013\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=526942\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWI - Język angielski: Konwersacje i debaty po angielsku poziom C
+ 2 - lektorat tematyczny
+DTSTART;VALUE=DATE-TIME:20260324T101500
+DTEND;VALUE=DATE-TIME:20260324T114500
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8432847@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: 146\nBudynek Wydziału Mechatroniki\n\nhttps://usosweb.u
+ sos.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
+ =3&zaj_cyk_id=529781\n
+LOCATION:Świętego Andrzeja Boboli 8\, 02-525 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAB - Napędy i sterowanie płynowe
+DTSTART;VALUE=DATE-TIME:20260324T121500
+DTEND;VALUE=DATE-TIME:20260324T140000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8256370@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST26\nGmach Stary Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=11
+ &zaj_cyk_id=527141\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAB - Napędy i sterowanie płynowe
+DTSTART;VALUE=DATE-TIME:20260324T141500
+DTEND;VALUE=DATE-TIME:20260324T160000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8256379@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST26\nGmach Stary Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=11
+ &zaj_cyk_id=527141\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PRO - Podstawy konstrukcji maszyn technologicznych
+DTSTART;VALUE=DATE-TIME:20260325T082000
+DTEND;VALUE=DATE-TIME:20260325T100000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261795@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT313\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=11
+ &zaj_cyk_id=527149\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWI - Język angielski w automatyce - poziom B2+ - lektorat tematy
+ czny
+DTSTART;VALUE=DATE-TIME:20260325T101500
+DTEND;VALUE=DATE-TIME:20260325T114500
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8428108@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: 146\nBudynek Wydziału Mechatroniki\n\nhttps://usosweb.u
+ sos.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
+ =1&zaj_cyk_id=529760\n
+LOCATION:Świętego Andrzeja Boboli 8\, 02-525 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Podstawy konstrukcji maszyn technologicznych
+DTSTART;VALUE=DATE-TIME:20260325T121500
+DTEND;VALUE=DATE-TIME:20260325T140000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261867@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT341\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527148\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Napędy i sterowanie płynowe
+DTSTART;VALUE=DATE-TIME:20260326T121500
+DTEND;VALUE=DATE-TIME:20260326T140000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8256450@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT341\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527140\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAB - Podstawy robotyki
+DTSTART;VALUE=DATE-TIME:20260326T141500
+DTEND;VALUE=DATE-TIME:20260326T160000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261530@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST403\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=527151\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Spawalnictwo 1
+DTSTART;VALUE=DATE-TIME:20260327T082000
+DTEND;VALUE=DATE-TIME:20260327T100000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8272027@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT144\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527153\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Rachunek prawdopodobieństwa i statystyka
+DTSTART;VALUE=DATE-TIME:20260327T101500
+DTEND;VALUE=DATE-TIME:20260327T120000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8256353@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT144\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527135\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Napędy elektryczne maszyn i robotów
+DTSTART;VALUE=DATE-TIME:20260330T101500
+DTEND;VALUE=DATE-TIME:20260330T120000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261779@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST310\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=527142\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Podstawy robotyki
+DTSTART;VALUE=DATE-TIME:20260330T121500
+DTEND;VALUE=DATE-TIME:20260330T140000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261617@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST310\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=527150\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Obróbka skrawaniem 1
+DTSTART;VALUE=DATE-TIME:20260330T141500
+DTEND;VALUE=DATE-TIME:20260330T160000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8272001@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST310\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=527147\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAB - Programowanie robotów przemysłowych
+DTSTART;VALUE=DATE-TIME:20260331T082000
+DTEND;VALUE=DATE-TIME:20260331T100000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8272049@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST013\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=526942\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWI - Język angielski: Konwersacje i debaty po angielsku poziom C
+ 2 - lektorat tematyczny
+DTSTART;VALUE=DATE-TIME:20260331T101500
+DTEND;VALUE=DATE-TIME:20260331T114500
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8432848@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: 146\nBudynek Wydziału Mechatroniki\n\nhttps://usosweb.u
+ sos.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
+ =3&zaj_cyk_id=529781\n
+LOCATION:Świętego Andrzeja Boboli 8\, 02-525 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAB - Napędy i sterowanie płynowe
+DTSTART;VALUE=DATE-TIME:20260331T121500
+DTEND;VALUE=DATE-TIME:20260331T140000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8256369@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST26\nGmach Stary Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=11
+ &zaj_cyk_id=527141\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAB - Napędy i sterowanie płynowe
+DTSTART;VALUE=DATE-TIME:20260331T141500
+DTEND;VALUE=DATE-TIME:20260331T160000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8256378@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST26\nGmach Stary Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=11
+ &zaj_cyk_id=527141\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PRO - Podstawy konstrukcji maszyn technologicznych
+DTSTART;VALUE=DATE-TIME:20260401T082000
+DTEND;VALUE=DATE-TIME:20260401T100000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261794@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT313\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=11
+ &zaj_cyk_id=527149\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWI - Język angielski w automatyce - poziom B2+ - lektorat tematy
+ czny
+DTSTART;VALUE=DATE-TIME:20260401T101500
+DTEND;VALUE=DATE-TIME:20260401T114500
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8428109@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: 146\nBudynek Wydziału Mechatroniki\n\nhttps://usosweb.u
+ sos.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
+ =1&zaj_cyk_id=529760\n
+LOCATION:Świętego Andrzeja Boboli 8\, 02-525 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Podstawy konstrukcji maszyn technologicznych
+DTSTART;VALUE=DATE-TIME:20260401T121500
+DTEND;VALUE=DATE-TIME:20260401T140000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261866@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT341\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527148\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Napędy i sterowanie płynowe
+DTSTART;VALUE=DATE-TIME:20260402T121500
+DTEND;VALUE=DATE-TIME:20260402T140000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8256449@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT341\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527140\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAB - Podstawy robotyki
+DTSTART;VALUE=DATE-TIME:20260402T141500
+DTEND;VALUE=DATE-TIME:20260402T160000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261529@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST403\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=527151\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PRO - Podstawy konstrukcji maszyn technologicznych
+DTSTART;VALUE=DATE-TIME:20260408T082000
+DTEND;VALUE=DATE-TIME:20260408T100000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261793@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT313\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=11
+ &zaj_cyk_id=527149\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWI - Język angielski w automatyce - poziom B2+ - lektorat tematy
+ czny
+DTSTART;VALUE=DATE-TIME:20260408T101500
+DTEND;VALUE=DATE-TIME:20260408T114500
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8428110@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: 146\nBudynek Wydziału Mechatroniki\n\nhttps://usosweb.u
+ sos.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
+ =1&zaj_cyk_id=529760\n
+LOCATION:Świętego Andrzeja Boboli 8\, 02-525 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Podstawy konstrukcji maszyn technologicznych
+DTSTART;VALUE=DATE-TIME:20260408T121500
+DTEND;VALUE=DATE-TIME:20260408T140000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261865@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT341\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527148\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Napędy i sterowanie płynowe
+DTSTART;VALUE=DATE-TIME:20260409T121500
+DTEND;VALUE=DATE-TIME:20260409T140000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8256448@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT341\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527140\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAB - Podstawy robotyki
+DTSTART;VALUE=DATE-TIME:20260409T141500
+DTEND;VALUE=DATE-TIME:20260409T160000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261528@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST403\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=527151\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Spawalnictwo 1
+DTSTART;VALUE=DATE-TIME:20260410T082000
+DTEND;VALUE=DATE-TIME:20260410T100000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8272026@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT144\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527153\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Rachunek prawdopodobieństwa i statystyka
+DTSTART;VALUE=DATE-TIME:20260410T101500
+DTEND;VALUE=DATE-TIME:20260410T120000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8256352@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT144\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527135\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Napędy elektryczne maszyn i robotów
+DTSTART;VALUE=DATE-TIME:20260413T101500
+DTEND;VALUE=DATE-TIME:20260413T120000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261778@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST310\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=527142\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Podstawy robotyki
+DTSTART;VALUE=DATE-TIME:20260413T121500
+DTEND;VALUE=DATE-TIME:20260413T140000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261616@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST310\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=527150\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Obróbka skrawaniem 1
+DTSTART;VALUE=DATE-TIME:20260413T141500
+DTEND;VALUE=DATE-TIME:20260413T160000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8272000@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST310\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=527147\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAB - Programowanie robotów przemysłowych
+DTSTART;VALUE=DATE-TIME:20260414T082000
+DTEND;VALUE=DATE-TIME:20260414T100000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8272048@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST013\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=526942\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWI - Język angielski: Konwersacje i debaty po angielsku poziom C
+ 2 - lektorat tematyczny
+DTSTART;VALUE=DATE-TIME:20260414T101500
+DTEND;VALUE=DATE-TIME:20260414T114500
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8432849@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: 146\nBudynek Wydziału Mechatroniki\n\nhttps://usosweb.u
+ sos.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
+ =3&zaj_cyk_id=529781\n
+LOCATION:Świętego Andrzeja Boboli 8\, 02-525 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAB - Napędy i sterowanie płynowe
+DTSTART;VALUE=DATE-TIME:20260414T121500
+DTEND;VALUE=DATE-TIME:20260414T140000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8256368@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST26\nGmach Stary Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=11
+ &zaj_cyk_id=527141\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAB - Napędy i sterowanie płynowe
+DTSTART;VALUE=DATE-TIME:20260414T141500
+DTEND;VALUE=DATE-TIME:20260414T160000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8256377@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST26\nGmach Stary Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=11
+ &zaj_cyk_id=527141\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PRO - Podstawy konstrukcji maszyn technologicznych
+DTSTART;VALUE=DATE-TIME:20260415T082000
+DTEND;VALUE=DATE-TIME:20260415T100000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261792@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT313\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=11
+ &zaj_cyk_id=527149\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWI - Język angielski w automatyce - poziom B2+ - lektorat tematy
+ czny
+DTSTART;VALUE=DATE-TIME:20260415T101500
+DTEND;VALUE=DATE-TIME:20260415T114500
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8428111@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: 146\nBudynek Wydziału Mechatroniki\n\nhttps://usosweb.u
+ sos.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
+ =1&zaj_cyk_id=529760\n
+LOCATION:Świętego Andrzeja Boboli 8\, 02-525 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Podstawy konstrukcji maszyn technologicznych
+DTSTART;VALUE=DATE-TIME:20260415T121500
+DTEND;VALUE=DATE-TIME:20260415T140000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261864@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT341\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527148\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Napędy i sterowanie płynowe
+DTSTART;VALUE=DATE-TIME:20260416T121500
+DTEND;VALUE=DATE-TIME:20260416T130000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8256447@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT341\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527140\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Obróbka plastyczna 1
+DTSTART;VALUE=DATE-TIME:20260416T131500
+DTEND;VALUE=DATE-TIME:20260416T140000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8272014@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT341\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527146\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAB - Podstawy robotyki
+DTSTART;VALUE=DATE-TIME:20260416T141500
+DTEND;VALUE=DATE-TIME:20260416T160000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261527@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST403\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=527151\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Spawalnictwo 1
+DTSTART;VALUE=DATE-TIME:20260417T082000
+DTEND;VALUE=DATE-TIME:20260417T100000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8272025@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT144\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527153\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Rachunek prawdopodobieństwa i statystyka
+DTSTART;VALUE=DATE-TIME:20260417T101500
+DTEND;VALUE=DATE-TIME:20260417T120000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8256351@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT144\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527135\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Napędy elektryczne maszyn i robotów
+DTSTART;VALUE=DATE-TIME:20260420T101500
+DTEND;VALUE=DATE-TIME:20260420T120000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261777@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST310\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=527142\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Podstawy robotyki
+DTSTART;VALUE=DATE-TIME:20260420T121500
+DTEND;VALUE=DATE-TIME:20260420T140000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261615@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST310\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=527150\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Obróbka skrawaniem 1
+DTSTART;VALUE=DATE-TIME:20260420T141500
+DTEND;VALUE=DATE-TIME:20260420T150000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8271999@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST310\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=527147\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Obróbka ścierna i erozyjna 1
+DTSTART;VALUE=DATE-TIME:20260420T151500
+DTEND;VALUE=DATE-TIME:20260420T160000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8271998@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST310\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=527144\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAB - Programowanie robotów przemysłowych
+DTSTART;VALUE=DATE-TIME:20260421T082000
+DTEND;VALUE=DATE-TIME:20260421T100000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8272047@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST013\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=526942\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWI - Język angielski: Konwersacje i debaty po angielsku poziom C
+ 2 - lektorat tematyczny
+DTSTART;VALUE=DATE-TIME:20260421T101500
+DTEND;VALUE=DATE-TIME:20260421T114500
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8432850@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: 146\nBudynek Wydziału Mechatroniki\n\nhttps://usosweb.u
+ sos.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
+ =3&zaj_cyk_id=529781\n
+LOCATION:Świętego Andrzeja Boboli 8\, 02-525 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAB - Napędy i sterowanie płynowe
+DTSTART;VALUE=DATE-TIME:20260421T121500
+DTEND;VALUE=DATE-TIME:20260421T140000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8256367@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST26\nGmach Stary Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=11
+ &zaj_cyk_id=527141\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PRO - Podstawy konstrukcji maszyn technologicznych
+DTSTART;VALUE=DATE-TIME:20260422T082000
+DTEND;VALUE=DATE-TIME:20260422T100000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261791@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT313\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=11
+ &zaj_cyk_id=527149\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWI - Język angielski w automatyce - poziom B2+ - lektorat tematy
+ czny
+DTSTART;VALUE=DATE-TIME:20260422T101500
+DTEND;VALUE=DATE-TIME:20260422T114500
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8428112@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: 146\nBudynek Wydziału Mechatroniki\n\nhttps://usosweb.u
+ sos.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
+ =1&zaj_cyk_id=529760\n
+LOCATION:Świętego Andrzeja Boboli 8\, 02-525 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Podstawy konstrukcji maszyn technologicznych
+DTSTART;VALUE=DATE-TIME:20260422T121500
+DTEND;VALUE=DATE-TIME:20260422T140000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261863@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT341\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527148\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Obróbka plastyczna 1
+DTSTART;VALUE=DATE-TIME:20260423T121500
+DTEND;VALUE=DATE-TIME:20260423T140000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8272013@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT341\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527146\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAB - Podstawy robotyki
+DTSTART;VALUE=DATE-TIME:20260423T141500
+DTEND;VALUE=DATE-TIME:20260423T160000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261526@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST403\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=527151\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Spawalnictwo 1
+DTSTART;VALUE=DATE-TIME:20260424T082000
+DTEND;VALUE=DATE-TIME:20260424T090500
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8272024@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT144\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527153\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Odlewnictwo 1
+DTSTART;VALUE=DATE-TIME:20260424T091500
+DTEND;VALUE=DATE-TIME:20260424T100000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8272022@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT144\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527145\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Rachunek prawdopodobieństwa i statystyka
+DTSTART;VALUE=DATE-TIME:20260424T101500
+DTEND;VALUE=DATE-TIME:20260424T110000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8256350@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT144\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527135\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Przetwórstwo tworzyw sztucznych 1
+DTSTART;VALUE=DATE-TIME:20260424T111500
+DTEND;VALUE=DATE-TIME:20260424T120000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8272039@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT144\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527152\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWI - Rachunek prawdopodobieństwa i statystyka
+DTSTART;VALUE=DATE-TIME:20260424T131500
+DTEND;VALUE=DATE-TIME:20260424T140000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8230652@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT241\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527136\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAB - Napędy elektryczne maszyn i robotów
+DTSTART;VALUE=DATE-TIME:20260424T151500
+DTEND;VALUE=DATE-TIME:20260424T160000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8230835@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT012\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527143\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Odlewnictwo 1
+DTSTART;VALUE=DATE-TIME:20260427T082000
+DTEND;VALUE=DATE-TIME:20260427T100000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8272015@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT144\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527145\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Przetwórstwo tworzyw sztucznych 1
+DTSTART;VALUE=DATE-TIME:20260427T101500
+DTEND;VALUE=DATE-TIME:20260427T120000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8272032@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT144\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527152\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWI - Rachunek prawdopodobieństwa i statystyka
+DTSTART;VALUE=DATE-TIME:20260427T121500
+DTEND;VALUE=DATE-TIME:20260427T140000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8230645@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT241\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527136\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAB - Napędy elektryczne maszyn i robotów
+DTSTART;VALUE=DATE-TIME:20260427T141500
+DTEND;VALUE=DATE-TIME:20260427T160000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8230828@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT012\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527143\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAB - Programowanie robotów przemysłowych
+DTSTART;VALUE=DATE-TIME:20260428T082000
+DTEND;VALUE=DATE-TIME:20260428T100000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8272046@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST013\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=526942\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWI - Język angielski: Konwersacje i debaty po angielsku poziom C
+ 2 - lektorat tematyczny
+DTSTART;VALUE=DATE-TIME:20260428T101500
+DTEND;VALUE=DATE-TIME:20260428T114500
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8432851@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: 146\nBudynek Wydziału Mechatroniki\n\nhttps://usosweb.u
+ sos.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
+ =3&zaj_cyk_id=529781\n
+LOCATION:Świętego Andrzeja Boboli 8\, 02-525 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PRO - Podstawy konstrukcji maszyn technologicznych
+DTSTART;VALUE=DATE-TIME:20260429T082000
+DTEND;VALUE=DATE-TIME:20260429T100000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261790@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT313\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=11
+ &zaj_cyk_id=527149\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWI - Język angielski w automatyce - poziom B2+ - lektorat tematy
+ czny
+DTSTART;VALUE=DATE-TIME:20260429T101500
+DTEND;VALUE=DATE-TIME:20260429T114500
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8428113@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: 146\nBudynek Wydziału Mechatroniki\n\nhttps://usosweb.u
+ sos.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
+ =1&zaj_cyk_id=529760\n
+LOCATION:Świętego Andrzeja Boboli 8\, 02-525 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Podstawy konstrukcji maszyn technologicznych
+DTSTART;VALUE=DATE-TIME:20260429T121500
+DTEND;VALUE=DATE-TIME:20260429T140000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261862@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT341\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527148\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Obróbka plastyczna 1
+DTSTART;VALUE=DATE-TIME:20260430T121500
+DTEND;VALUE=DATE-TIME:20260430T140000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8272012@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT341\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527146\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAB - Podstawy robotyki
+DTSTART;VALUE=DATE-TIME:20260430T141500
+DTEND;VALUE=DATE-TIME:20260430T160000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261525@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST403\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=527151\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Napędy elektryczne maszyn i robotów
+DTSTART;VALUE=DATE-TIME:20260504T101500
+DTEND;VALUE=DATE-TIME:20260504T120000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261776@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST310\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=527142\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Podstawy robotyki
+DTSTART;VALUE=DATE-TIME:20260504T121500
+DTEND;VALUE=DATE-TIME:20260504T140000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261614@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST310\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=527150\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Obróbka ścierna i erozyjna 1
+DTSTART;VALUE=DATE-TIME:20260504T141500
+DTEND;VALUE=DATE-TIME:20260504T160000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8271997@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST310\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=527144\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAB - Programowanie robotów przemysłowych
+DTSTART;VALUE=DATE-TIME:20260505T082000
+DTEND;VALUE=DATE-TIME:20260505T100000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8272045@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST013\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=526942\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWI - Język angielski: Konwersacje i debaty po angielsku poziom C
+ 2 - lektorat tematyczny
+DTSTART;VALUE=DATE-TIME:20260505T101500
+DTEND;VALUE=DATE-TIME:20260505T114500
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8432852@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: 146\nBudynek Wydziału Mechatroniki\n\nhttps://usosweb.u
+ sos.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
+ =3&zaj_cyk_id=529781\n
+LOCATION:Świętego Andrzeja Boboli 8\, 02-525 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PRO - Podstawy konstrukcji maszyn technologicznych
+DTSTART;VALUE=DATE-TIME:20260506T082000
+DTEND;VALUE=DATE-TIME:20260506T100000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261789@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT313\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=11
+ &zaj_cyk_id=527149\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWI - Język angielski w automatyce - poziom B2+ - lektorat tematy
+ czny
+DTSTART;VALUE=DATE-TIME:20260506T101500
+DTEND;VALUE=DATE-TIME:20260506T114500
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8428114@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: 146\nBudynek Wydziału Mechatroniki\n\nhttps://usosweb.u
+ sos.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
+ =1&zaj_cyk_id=529760\n
+LOCATION:Świętego Andrzeja Boboli 8\, 02-525 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Podstawy konstrukcji maszyn technologicznych
+DTSTART;VALUE=DATE-TIME:20260506T121500
+DTEND;VALUE=DATE-TIME:20260506T140000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261861@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT341\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527148\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Obróbka plastyczna 1
+DTSTART;VALUE=DATE-TIME:20260507T121500
+DTEND;VALUE=DATE-TIME:20260507T140000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8272011@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT341\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527146\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAB - Podstawy robotyki
+DTSTART;VALUE=DATE-TIME:20260507T141500
+DTEND;VALUE=DATE-TIME:20260507T160000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261524@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST403\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=527151\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Odlewnictwo 1
+DTSTART;VALUE=DATE-TIME:20260508T082000
+DTEND;VALUE=DATE-TIME:20260508T100000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8272021@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT144\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527145\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Przetwórstwo tworzyw sztucznych 1
+DTSTART;VALUE=DATE-TIME:20260508T101500
+DTEND;VALUE=DATE-TIME:20260508T120000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8272038@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT144\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527152\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWI - Rachunek prawdopodobieństwa i statystyka
+DTSTART;VALUE=DATE-TIME:20260508T121500
+DTEND;VALUE=DATE-TIME:20260508T140000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8230651@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT241\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527136\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAB - Napędy elektryczne maszyn i robotów
+DTSTART;VALUE=DATE-TIME:20260508T141500
+DTEND;VALUE=DATE-TIME:20260508T160000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8230834@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT012\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527143\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Napędy elektryczne maszyn i robotów
+DTSTART;VALUE=DATE-TIME:20260511T101500
+DTEND;VALUE=DATE-TIME:20260511T120000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261775@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST310\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=527142\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Podstawy robotyki
+DTSTART;VALUE=DATE-TIME:20260511T121500
+DTEND;VALUE=DATE-TIME:20260511T140000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261613@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST310\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=527150\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Obróbka ścierna i erozyjna 1
+DTSTART;VALUE=DATE-TIME:20260511T141500
+DTEND;VALUE=DATE-TIME:20260511T160000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8271996@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST310\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=527144\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Odlewnictwo 1
+DTSTART;VALUE=DATE-TIME:20260512T082000
+DTEND;VALUE=DATE-TIME:20260512T100000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8272016@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT144\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527145\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Przetwórstwo tworzyw sztucznych 1
+DTSTART;VALUE=DATE-TIME:20260512T101500
+DTEND;VALUE=DATE-TIME:20260512T120000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8272033@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT144\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527152\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWI - Rachunek prawdopodobieństwa i statystyka
+DTSTART;VALUE=DATE-TIME:20260512T121500
+DTEND;VALUE=DATE-TIME:20260512T140000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8230646@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT241\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527136\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAB - Napędy elektryczne maszyn i robotów
+DTSTART;VALUE=DATE-TIME:20260512T141500
+DTEND;VALUE=DATE-TIME:20260512T160000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8230829@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT012\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527143\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PRO - Podstawy konstrukcji maszyn technologicznych
+DTSTART;VALUE=DATE-TIME:20260513T082000
+DTEND;VALUE=DATE-TIME:20260513T100000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261788@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT313\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=11
+ &zaj_cyk_id=527149\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWI - Język angielski w automatyce - poziom B2+ - lektorat tematy
+ czny
+DTSTART;VALUE=DATE-TIME:20260513T101500
+DTEND;VALUE=DATE-TIME:20260513T114500
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8428115@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: 146\nBudynek Wydziału Mechatroniki\n\nhttps://usosweb.u
+ sos.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
+ =1&zaj_cyk_id=529760\n
+LOCATION:Świętego Andrzeja Boboli 8\, 02-525 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Podstawy konstrukcji maszyn technologicznych
+DTSTART;VALUE=DATE-TIME:20260513T121500
+DTEND;VALUE=DATE-TIME:20260513T140000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261860@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT341\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527148\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Obróbka plastyczna 1
+DTSTART;VALUE=DATE-TIME:20260514T121500
+DTEND;VALUE=DATE-TIME:20260514T140000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8272010@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT341\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527146\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAB - Podstawy robotyki
+DTSTART;VALUE=DATE-TIME:20260514T141500
+DTEND;VALUE=DATE-TIME:20260514T160000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261523@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST403\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=527151\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Napędy elektryczne maszyn i robotów
+DTSTART;VALUE=DATE-TIME:20260518T101500
+DTEND;VALUE=DATE-TIME:20260518T120000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261774@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST310\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=527142\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Podstawy robotyki
+DTSTART;VALUE=DATE-TIME:20260518T121500
+DTEND;VALUE=DATE-TIME:20260518T140000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261612@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST310\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=527150\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Obróbka ścierna i erozyjna 1
+DTSTART;VALUE=DATE-TIME:20260518T141500
+DTEND;VALUE=DATE-TIME:20260518T160000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8271995@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST310\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=527144\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAB - Programowanie robotów przemysłowych
+DTSTART;VALUE=DATE-TIME:20260519T082000
+DTEND;VALUE=DATE-TIME:20260519T100000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8272044@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST013\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=526942\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWI - Język angielski: Konwersacje i debaty po angielsku poziom C
+ 2 - lektorat tematyczny
+DTSTART;VALUE=DATE-TIME:20260519T101500
+DTEND;VALUE=DATE-TIME:20260519T114500
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8432853@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: 146\nBudynek Wydziału Mechatroniki\n\nhttps://usosweb.u
+ sos.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
+ =3&zaj_cyk_id=529781\n
+LOCATION:Świętego Andrzeja Boboli 8\, 02-525 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PRO - Podstawy konstrukcji maszyn technologicznych
+DTSTART;VALUE=DATE-TIME:20260520T082000
+DTEND;VALUE=DATE-TIME:20260520T100000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261787@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT313\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=11
+ &zaj_cyk_id=527149\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWI - Język angielski w automatyce - poziom B2+ - lektorat tematy
+ czny
+DTSTART;VALUE=DATE-TIME:20260520T101500
+DTEND;VALUE=DATE-TIME:20260520T114500
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8428116@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: 146\nBudynek Wydziału Mechatroniki\n\nhttps://usosweb.u
+ sos.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
+ =1&zaj_cyk_id=529760\n
+LOCATION:Świętego Andrzeja Boboli 8\, 02-525 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Podstawy konstrukcji maszyn technologicznych
+DTSTART;VALUE=DATE-TIME:20260520T121500
+DTEND;VALUE=DATE-TIME:20260520T140000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261859@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT341\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527148\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Obróbka plastyczna 1
+DTSTART;VALUE=DATE-TIME:20260521T121500
+DTEND;VALUE=DATE-TIME:20260521T140000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8272009@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT341\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527146\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAB - Podstawy robotyki
+DTSTART;VALUE=DATE-TIME:20260521T141500
+DTEND;VALUE=DATE-TIME:20260521T160000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261522@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST403\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=527151\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Odlewnictwo 1
+DTSTART;VALUE=DATE-TIME:20260522T082000
+DTEND;VALUE=DATE-TIME:20260522T100000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8272020@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT144\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527145\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Przetwórstwo tworzyw sztucznych 1
+DTSTART;VALUE=DATE-TIME:20260522T101500
+DTEND;VALUE=DATE-TIME:20260522T120000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8272037@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT144\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527152\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWI - Rachunek prawdopodobieństwa i statystyka
+DTSTART;VALUE=DATE-TIME:20260522T121500
+DTEND;VALUE=DATE-TIME:20260522T140000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8230650@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT241\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527136\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAB - Napędy elektryczne maszyn i robotów
+DTSTART;VALUE=DATE-TIME:20260522T141500
+DTEND;VALUE=DATE-TIME:20260522T160000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8230833@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT012\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527143\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Napędy elektryczne maszyn i robotów
+DTSTART;VALUE=DATE-TIME:20260525T101500
+DTEND;VALUE=DATE-TIME:20260525T120000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261773@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST310\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=527142\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Podstawy robotyki
+DTSTART;VALUE=DATE-TIME:20260525T121500
+DTEND;VALUE=DATE-TIME:20260525T140000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261611@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST310\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=527150\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Obróbka ścierna i erozyjna 1
+DTSTART;VALUE=DATE-TIME:20260525T141500
+DTEND;VALUE=DATE-TIME:20260525T160000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8271994@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST310\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=527144\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAB - Programowanie robotów przemysłowych
+DTSTART;VALUE=DATE-TIME:20260526T082000
+DTEND;VALUE=DATE-TIME:20260526T100000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8272043@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST013\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=526942\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWI - Język angielski: Konwersacje i debaty po angielsku poziom C
+ 2 - lektorat tematyczny
+DTSTART;VALUE=DATE-TIME:20260526T101500
+DTEND;VALUE=DATE-TIME:20260526T114500
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8432854@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: 146\nBudynek Wydziału Mechatroniki\n\nhttps://usosweb.u
+ sos.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
+ =3&zaj_cyk_id=529781\n
+LOCATION:Świętego Andrzeja Boboli 8\, 02-525 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PRO - Podstawy konstrukcji maszyn technologicznych
+DTSTART;VALUE=DATE-TIME:20260527T082000
+DTEND;VALUE=DATE-TIME:20260527T100000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261786@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT313\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=11
+ &zaj_cyk_id=527149\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWI - Język angielski w automatyce - poziom B2+ - lektorat tematy
+ czny
+DTSTART;VALUE=DATE-TIME:20260527T101500
+DTEND;VALUE=DATE-TIME:20260527T114500
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8428117@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: 146\nBudynek Wydziału Mechatroniki\n\nhttps://usosweb.u
+ sos.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
+ =1&zaj_cyk_id=529760\n
+LOCATION:Świętego Andrzeja Boboli 8\, 02-525 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Podstawy konstrukcji maszyn technologicznych
+DTSTART;VALUE=DATE-TIME:20260527T121500
+DTEND;VALUE=DATE-TIME:20260527T140000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261858@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT341\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527148\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Obróbka plastyczna 1
+DTSTART;VALUE=DATE-TIME:20260528T121500
+DTEND;VALUE=DATE-TIME:20260528T140000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8272008@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT341\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527146\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAB - Podstawy robotyki
+DTSTART;VALUE=DATE-TIME:20260528T141500
+DTEND;VALUE=DATE-TIME:20260528T160000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261521@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST403\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=527151\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Odlewnictwo 1
+DTSTART;VALUE=DATE-TIME:20260529T082000
+DTEND;VALUE=DATE-TIME:20260529T100000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8272019@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT144\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527145\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Przetwórstwo tworzyw sztucznych 1
+DTSTART;VALUE=DATE-TIME:20260529T101500
+DTEND;VALUE=DATE-TIME:20260529T120000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8272036@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT144\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527152\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWI - Rachunek prawdopodobieństwa i statystyka
+DTSTART;VALUE=DATE-TIME:20260529T121500
+DTEND;VALUE=DATE-TIME:20260529T140000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8230649@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT241\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527136\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAB - Napędy elektryczne maszyn i robotów
+DTSTART;VALUE=DATE-TIME:20260529T141500
+DTEND;VALUE=DATE-TIME:20260529T160000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8230832@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT012\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527143\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Napędy elektryczne maszyn i robotów
+DTSTART;VALUE=DATE-TIME:20260601T101500
+DTEND;VALUE=DATE-TIME:20260601T120000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261772@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST310\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=527142\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Podstawy robotyki
+DTSTART;VALUE=DATE-TIME:20260601T121500
+DTEND;VALUE=DATE-TIME:20260601T140000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261610@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST310\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=527150\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Obróbka ścierna i erozyjna 1
+DTSTART;VALUE=DATE-TIME:20260601T141500
+DTEND;VALUE=DATE-TIME:20260601T160000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8271993@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST310\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=527144\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAB - Programowanie robotów przemysłowych
+DTSTART;VALUE=DATE-TIME:20260602T082000
+DTEND;VALUE=DATE-TIME:20260602T100000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8272042@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST013\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=526942\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWI - Język angielski: Konwersacje i debaty po angielsku poziom C
+ 2 - lektorat tematyczny
+DTSTART;VALUE=DATE-TIME:20260602T101500
+DTEND;VALUE=DATE-TIME:20260602T114500
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8432855@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: 146\nBudynek Wydziału Mechatroniki\n\nhttps://usosweb.u
+ sos.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
+ =3&zaj_cyk_id=529781\n
+LOCATION:Świętego Andrzeja Boboli 8\, 02-525 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Odlewnictwo 1
+DTSTART;VALUE=DATE-TIME:20260603T082000
+DTEND;VALUE=DATE-TIME:20260603T100000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8272017@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT144\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527145\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Przetwórstwo tworzyw sztucznych 1
+DTSTART;VALUE=DATE-TIME:20260603T101500
+DTEND;VALUE=DATE-TIME:20260603T120000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8272034@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT144\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527152\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWI - Rachunek prawdopodobieństwa i statystyka
+DTSTART;VALUE=DATE-TIME:20260603T121500
+DTEND;VALUE=DATE-TIME:20260603T140000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8230647@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT241\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527136\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAB - Napędy elektryczne maszyn i robotów
+DTSTART;VALUE=DATE-TIME:20260603T141500
+DTEND;VALUE=DATE-TIME:20260603T160000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8230830@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT012\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527143\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Napędy elektryczne maszyn i robotów
+DTSTART;VALUE=DATE-TIME:20260608T101500
+DTEND;VALUE=DATE-TIME:20260608T120000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261771@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST310\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=527142\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Podstawy robotyki
+DTSTART;VALUE=DATE-TIME:20260608T121500
+DTEND;VALUE=DATE-TIME:20260608T140000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261609@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST310\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=527150\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Obróbka ścierna i erozyjna 1
+DTSTART;VALUE=DATE-TIME:20260608T141500
+DTEND;VALUE=DATE-TIME:20260608T160000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8271992@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST310\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=527144\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAB - Programowanie robotów przemysłowych
+DTSTART;VALUE=DATE-TIME:20260609T082000
+DTEND;VALUE=DATE-TIME:20260609T100000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8272041@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST013\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=526942\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWI - Język angielski: Konwersacje i debaty po angielsku poziom C
+ 2 - lektorat tematyczny
+DTSTART;VALUE=DATE-TIME:20260609T101500
+DTEND;VALUE=DATE-TIME:20260609T114500
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8432856@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: 146\nBudynek Wydziału Mechatroniki\n\nhttps://usosweb.u
+ sos.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
+ =3&zaj_cyk_id=529781\n
+LOCATION:Świętego Andrzeja Boboli 8\, 02-525 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PRO - Podstawy konstrukcji maszyn technologicznych
+DTSTART;VALUE=DATE-TIME:20260610T082000
+DTEND;VALUE=DATE-TIME:20260610T100000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261785@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT313\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=11
+ &zaj_cyk_id=527149\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWI - Język angielski w automatyce - poziom B2+ - lektorat tematy
+ czny
+DTSTART;VALUE=DATE-TIME:20260610T101500
+DTEND;VALUE=DATE-TIME:20260610T114500
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8428118@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: 146\nBudynek Wydziału Mechatroniki\n\nhttps://usosweb.u
+ sos.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
+ =1&zaj_cyk_id=529760\n
+LOCATION:Świętego Andrzeja Boboli 8\, 02-525 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Podstawy konstrukcji maszyn technologicznych
+DTSTART;VALUE=DATE-TIME:20260610T121500
+DTEND;VALUE=DATE-TIME:20260610T140000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261857@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT341\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527148\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Obróbka plastyczna 1
+DTSTART;VALUE=DATE-TIME:20260611T121500
+DTEND;VALUE=DATE-TIME:20260611T140000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8272007@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT341\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527146\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAB - Podstawy robotyki
+DTSTART;VALUE=DATE-TIME:20260611T141500
+DTEND;VALUE=DATE-TIME:20260611T160000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261520@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST403\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=527151\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Odlewnictwo 1
+DTSTART;VALUE=DATE-TIME:20260612T082000
+DTEND;VALUE=DATE-TIME:20260612T100000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8272018@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT144\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527145\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Przetwórstwo tworzyw sztucznych 1
+DTSTART;VALUE=DATE-TIME:20260612T101500
+DTEND;VALUE=DATE-TIME:20260612T120000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8272035@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT144\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527152\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWI - Rachunek prawdopodobieństwa i statystyka
+DTSTART;VALUE=DATE-TIME:20260612T121500
+DTEND;VALUE=DATE-TIME:20260612T140000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8230648@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT241\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527136\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAB - Napędy elektryczne maszyn i robotów
+DTSTART;VALUE=DATE-TIME:20260612T141500
+DTEND;VALUE=DATE-TIME:20260612T160000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8230831@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: NT012\nGmach Nowy Technologiczny\n\nhttps://usosweb.usos
+ .pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&
+ zaj_cyk_id=527143\n
+LOCATION:Narbutta 85\, 02-524 Warszawa\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Napędy elektryczne maszyn i robotów
+DTSTART;VALUE=DATE-TIME:20260615T101500
+DTEND;VALUE=DATE-TIME:20260615T120000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261770@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST310\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=527142\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Podstawy robotyki
+DTSTART;VALUE=DATE-TIME:20260615T121500
+DTEND;VALUE=DATE-TIME:20260615T140000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8261608@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST310\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=527150\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WYK - Obróbka ścierna i erozyjna 1
+DTSTART;VALUE=DATE-TIME:20260615T141500
+DTEND;VALUE=DATE-TIME:20260615T160000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8271991@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST310\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=527144\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAB - Programowanie robotów przemysłowych
+DTSTART;VALUE=DATE-TIME:20260616T082000
+DTEND;VALUE=DATE-TIME:20260616T100000
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8272040@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: ST013\nGmach Stary Technologiczny\n\nhttps://usosweb.uso
+ s.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1
+ &zaj_cyk_id=526942\n
+LOCATION:Narbutta 86\, 02-524 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWI - Język angielski: Konwersacje i debaty po angielsku poziom C
+ 2 - lektorat tematyczny
+DTSTART;VALUE=DATE-TIME:20260616T101500
+DTEND;VALUE=DATE-TIME:20260616T114500
+DTSTAMP;VALUE=DATE-TIME:20260224T155118Z
+UID:sm-8432857@apps.usos.pw.edu.pl
+DESCRIPTION:Sala: 146\nBudynek Wydziału Mechatroniki\n\nhttps://usosweb.u
+ sos.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
+ =3&zaj_cyk_id=529781\n
+LOCATION:Świętego Andrzeja Boboli 8\, 02-525 Warszawa
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
