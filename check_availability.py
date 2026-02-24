@@ -1,8 +1,7 @@
 """
 USOS Language Course Availability Monitor
-Checks for available spots in "Jezyki od podstaw (M1)" groups,
-filters out schedule conflicts using your plan.ics exported from USOS,
-compares with previous state, and sends Discord DM notifications on changes.
+Monitors language course groups for available spots, filters out schedule
+conflicts using plan.ics, and sends Discord DM notifications on changes.
 
 GitHub Secrets required:
   USOS_USERNAME      - USOS login (nr albumu)
@@ -34,11 +33,30 @@ except ImportError:
 BASE_URL = "https://usosweb.usos.pw.edu.pl/kontroler.php"
 CAS_URL = "https://cas.usos.pw.edu.pl/cas/login"
 
-REGISTRATION = {
-    "rej_kod": "6420-1000-2026L-A1M1",
-    "cdyd_kod": "2026L",
-    "name": "Jezyki od podstaw (M1)",
-}
+# =============================================================================
+# KTÓRE LEKTORATY MONITOROWAĆ?
+# Odkomentuj lub zakomentuj rejestracje które chcesz obserwować.
+# Możesz włączyć więcej niż jedną jednocześnie.
+# =============================================================================
+CDYD_KOD = "2026L"  # Semestr (nie zmieniaj)
+
+REGISTRATIONS = [
+    # Języki od podstaw — dla studentów 1. roku (M1), poziom A1
+    {"rej_kod": "6420-1000-2026L-A1M1", "name": "Języki od podstaw (M1)"},
+
+    # Inne języki A1 — dla studentów 2. i 3. roku (M2, M3), poziom A1
+    # {"rej_kod": "6420-1000-2026L-A1", "name": "Inne języki A1 (M2, M3)"},
+
+    # Języki A2–B2 — kontynuacja, poziomy A2, B1, B2
+    # {"rej_kod": "6420-1000-2026L-A2B2", "name": "Języki A2–B2"},
+
+    # Angielski tematyczny B2/B2+/C1
+    # {"rej_kod": "6420-1000-2026L-LTA", "name": "Angielski tematyczny B2/B2+/C1"},
+
+    # Angielski tematyczny C1+/C2
+    # {"rej_kod": "6420-1000-2026L-LTC", "name": "Angielski tematyczny C1+/C2"},
+]
+# =============================================================================
 
 SCHEDULE_FILE = Path(__file__).parent / "plan.ics"
 STATE_FILE = Path(__file__).parent / "previous_state.json"
@@ -403,18 +421,20 @@ def main():
         sys.exit(1)
 
     # 3. Scrape
-    rej_kod = REGISTRATION["rej_kod"]
-    print(f"\n=== {REGISTRATION['name']} ({rej_kod}) ===")
-    subjects = get_subjects(session, rej_kod)
-    if not subjects:
-        print("Nie znaleziono przedmiotow.")
+    if not REGISTRATIONS:
+        print("BLAD: Lista REGISTRATIONS jest pusta. Odkomentuj przynajmniej jedną rejestrację.")
         sys.exit(1)
 
     all_groups = []
-    for i, subject in enumerate(subjects, 1):
-        print(f"  [{i}/{len(subjects)}] {subject['name']}")
-        all_groups.extend(get_groups(session, subject, rej_kod, REGISTRATION["cdyd_kod"]))
-        time.sleep(0.3)
+    for reg in REGISTRATIONS:
+        rej_kod = reg["rej_kod"]
+        print(f"\n=== {reg['name']} ({rej_kod}) ===")
+        subjects = get_subjects(session, rej_kod)
+        for i, subject in enumerate(subjects, 1):
+            print(f"  [{i}/{len(subjects)}] {subject['name']}")
+            all_groups.extend(get_groups(session, subject, rej_kod, CDYD_KOD))
+            time.sleep(0.3)
+
     print(f"\nGrup lacznie: {len(all_groups)}")
 
     # 4. Filter conflicts
