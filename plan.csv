@@ -1,0 +1,20 @@
+﻿Dzień;Godziny;Sala;Częstotliwość;Przedmiot;Typ/Grupa;Kod Przedmiotu
+Poniedziałek;10:15 - 12:00;ST310;SEM;Napędy elektryczne maszyn i robotów-W ;W30 (ID-A0-4x) ;1104-AR000-ISP-NEMAR 
+Poniedziałek;12:15 - 14:00;ST310;SEM;Podstawy robotyki-W ;W30 (ID-A0-4x) ;1103-AR000-ISP-POROB 
+Poniedziałek;14:15 - 16:00;ST310;1ps;Obróbka skrawaniem 1-W ;W15 (ID-A0-4x) ;1104-AR000-ISP-OSKA1 
+Poniedziałek;14:15 - 16:00;ST310;2ps;Obróbka ścierna i erozyjna 1-W ;W15 (ID-A0-4x) ;1104-AR000-ISP-OBSE1 
+Wtorek;08:20 - 10:00;ST013;SEM;Programowanie robotów przemysłowych-L ;L30 (ID-A0-41) ;1100-00000-ISP-PRORO 
+Wtorek;10:15 - 11:45;146;SEM;Język angielski: Konwersacje i debaty po angielsku poziom C2 - lektorat tematyczny-C ;C (gr. 3) ;
+Wtorek;12:15 - 16:00;ST26;1ps;Napędy i sterowanie płynowe-L ;L30 (ID-A0-41) ;1104-AR000-ISP-NASTP 
+Środa;08:20 - 10:00;NT313;SEM;Podstawy konstrukcji maszyn technologicznych-P ;P30 (ID-A0-41) ;1104-AR000-ISP-PKMTE 
+Środa;10:15 - 11:45;146;SEM;Język angielski w automatyce - poziom B2+ - lektorat tematyczny-C ;C (gr. 1) ;
+Środa;12:15 - 14:00;NT341;SEM;Podstawy konstrukcji maszyn technologicznych-W ;W30 (ID-A0-4x) ;1104-AR000-ISP-PKMTE 
+Czwartek;12:15 - 14:00;NT341;1ps;Napędy i sterowanie płynowe-W ;W15 (ID-A0-4x) ;1104-AR000-ISP-NASTP 
+Czwartek;12:15 - 14:00;NT341;2ps;Obróbka plastyczna 1-W ;W15 (ID-A0-4x) ;1104-AR000-ISP-OPLA1 
+Czwartek;14:15 - 16:00;ST403;SEM;Podstawy robotyki-L ;L30 (ID-A0-41) ;1103-AR000-ISP-POROB 
+Piątek;08:20 - 10:00;NT144;1ps;Spawalnictwo 1-W ;W15 (ID-A0-4x) ;1104-AR000-ISP-SPAW1 
+Piątek;08:20 - 10:00;NT144;2ps;Odlewnictwo 1-W ;W15 (ID-A0-4x) ;1104-AR000-ISP-ODLE1 
+Piątek;10:15 - 12:00;NT144;1ps;Rachunek prawdopodobieństwa i statystyka-W ;W15 (ID-A0-4x) ;1104-00000-ISP-RAPIS 
+Piątek;10:15 - 12:00;NT144;2ps;Przetwórstwo tworzyw sztucznych 1-W ;W15 (ID-A0-4x) ;1104-AR000-ISP-PTWS1 
+Piątek;12:15 - 14:00;NT241;2ps;Rachunek prawdopodobieństwa i statystyka-C ;C15 (ID-A0-41) ;1104-00000-ISP-RAPIS 
+Piątek;14:15 - 16:00;NT012;2ps;Napędy elektryczne maszyn i robotów-L ;L15 (ID-A0-41) ;1104-AR000-ISP-NEMAR 
