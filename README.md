@@ -34,6 +34,33 @@ Workflow odpala się **co 15 minut** automatycznie. Możesz też uruchomić ręc
 
 ---
 
+## Wybór kategorii lektoratów
+
+W pliku `check_availability.py` na górze znajdziesz sekcję `REGISTRATIONS`. Odkomentuj te kategorie które chcesz monitorować:
+
+```python
+REGISTRATIONS = [
+    # Języki od podstaw — dla studentów 1. roku (M1), poziom A1
+    {"rej_kod": "6420-1000-2026L-A1M1", "name": "Języki od podstaw (M1)"},
+
+    # Inne języki A1 — dla studentów 2. i 3. roku (M2, M3), poziom A1
+    # {"rej_kod": "6420-1000-2026L-A1", "name": "Inne języki A1 (M2, M3)"},
+
+    # Języki A2–B2 — kontynuacja, poziomy A2, B1, B2
+    # {"rej_kod": "6420-1000-2026L-A2B2", "name": "Języki A2–B2"},
+
+    # Angielski tematyczny B2/B2+/C1
+    # {"rej_kod": "6420-1000-2026L-LTA", "name": "Angielski tematyczny B2/B2+/C1"},
+
+    # Angielski tematyczny C1+/C2
+    # {"rej_kod": "6420-1000-2026L-LTC", "name": "Angielski tematyczny C1+/C2"},
+]
+```
+
+Możesz włączyć kilka kategorii jednocześnie — skrypt sprawdzi wszystkie i wyśle jeden zbiorczy DM.
+
+---
+
 ## Jak to działa
 
 1. Parsuje `plan.ics` → wykrywa regularne zajęcia (≥3 wystąpień w semestrze, jednorazowe pomija)
