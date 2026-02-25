@@ -2,7 +2,7 @@ name: Check USOS Availability
 
 on:
   schedule:
-    - cron: '*/45 * * * *'
+    - cron: '*/15 * * * *'
   workflow_dispatch:
 
 permissions:
